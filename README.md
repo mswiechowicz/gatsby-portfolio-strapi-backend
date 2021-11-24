@@ -5,6 +5,9 @@
 npm i
 ```
 ```bash
+npm run build
+```
+```bash
 npm run start
 ```
 
