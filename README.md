@@ -2,6 +2,9 @@
 
 ### Quick start
 ```bash
+npm i
+```
+```bash
 npm run start
 ```
 
